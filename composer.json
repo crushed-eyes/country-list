@@ -19,7 +19,7 @@
     "php": "^7.1|^8.0",
     "ext-intl": "*",
     "ext-mbstring": "*",
-    "illuminate/support": "^5.8|^6|^7|^8|^8.0|^9.0|^10.0|^11.0",
+    "illuminate/support": "^5.8|^6|^7|^8|^8.0|^9.0|^10.0|^11.0|^12.0",
     "umpirsky/country-list": "2.0.*"
   },
   "require-dev": {
